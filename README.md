@@ -1,6 +1,3 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/DavidTorres09/count.svg" alt="Visitor's Count" />
-</div>
+<img src="https://github.com/DavidTorres09/DavidTorres09/blob/main/Tree.png" alt="Banner of a tree">
