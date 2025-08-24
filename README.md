@@ -4,6 +4,14 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=davidtorres09&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DavidTorres09's" />
+  <!--   Create Snake -->
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidTorres09/DavidTorres09/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidTorres09/DavidTorres09/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/DavidTorres09/DavidTorres09/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </div>
 </div>
 <hr>
 
@@ -20,14 +28,7 @@
 <hr>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidTorres09/DavidTorres09/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidTorres09/DavidTorres09/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DavidTorres09/DavidTorres09/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-<hr>
+
 
 
 <br>
