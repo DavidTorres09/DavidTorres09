@@ -5,8 +5,11 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,typescript,javascript,rust,haskell,fsharp,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,d3" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,influxdb,mysql" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,linux,figma,postman,tensorflow" />
 </p>
 <hr>
 
