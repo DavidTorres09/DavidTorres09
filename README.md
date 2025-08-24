@@ -5,7 +5,7 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,typescript,javascript,rust,haskell,fsharp,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,typescript,javascript,rust,haskell,fs,nodejs" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux,d3" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,influxdb,mysql" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" />
