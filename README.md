@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/DavidTorres09/DavidTorres09/blob/main/Tree.png](https://github.com/DavidTorres09/DavidTorres09/blob/main/bannerGithub.png" alt="Banner of a tree">
+<img src="https://github.com/DavidTorres09/DavidTorres09/blob/main/bannerGithub.png" alt="Banner of a tree">
 
 <br>
 
