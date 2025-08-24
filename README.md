@@ -4,8 +4,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=davidtorres09&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DavidTorres09's" />
-  <br>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtorres09&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DavidTorres09's Most Used Languages" />
 </div>
 <hr>
 
