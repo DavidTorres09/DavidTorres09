@@ -1,4 +1,10 @@
 <img src="https://github.com/DavidTorres09/DavidTorres09/blob/main/bannerGithub.png" alt="Banner of a tree">
+<p align="center">
+  <b>Full Stack Developer who takes initiative to start and build.</b><br>
+  Focused on creating scalable systems and intuitive user experiences.<br>
+  Always learning, experimenting, and turning ideas into reality.
+</p>
+
 
 ## ⚡️ Stats
 <br>
@@ -27,10 +33,7 @@
 </p>
 <hr>
 
-
-
-
-
+## ☎️ Contacts
 <br>
 <div align="center">
 <a href="mailto:angeldtm09@gmail.com?subject=Hello%20David&body=I%20saw%20your%20GitHub%20profile..." target="_blank">
