@@ -1,6 +1,14 @@
 <img src="https://github.com/DavidTorres09/DavidTorres09/blob/main/bannerGithub.png" alt="Banner of a tree">
 
+## ⚡️ Stats
 <br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=davidtorres09&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DavidTorres09's" />
+  <br>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtorres09&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DavidTorres09's Most Used Languages" />
+</div>
+<hr>
+
 
 ## 🛠️ Languages and Tools
 <br>
@@ -11,15 +19,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions" />
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,linux,figma,postman,tensorflow,vim" />
 </p>
-<hr>
-
-## ⚡️ Stats
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=davidtorres09&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DavidTorres09's" />
-  <br>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtorres09&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DavidTorres09's Most Used Languages" />
-</div>
 <hr>
 
 
