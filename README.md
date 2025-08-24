@@ -16,9 +16,10 @@
 <br>
 
 <div align="center">
-  <a href="angeldtm09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<a href="mailto:angeldtm09@gmail.com?subject=Hello%20David&body=I%20saw%20your%20GitHub%20profile..." target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+
   <a href="https://linkedin.com/in/david-torres-mora" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
