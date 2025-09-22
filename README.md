@@ -1,7 +1,6 @@
 <img src="https://github.com/DavidTorres09/DavidTorres09/blob/main/bannerGithub.png" alt="Banner of a tree">
 
 <p align="center">
-  <b>Full Stack Developer driven by curiosity and initiative.</b><br>
   Focused on designing scalable systems and crafting intuitive experiences.<br>
   Always learning, experimenting, and turning ideas into real-world impact.
 </p>
